@@ -28,9 +28,6 @@ Book Social Network is a full-stack application that enables users to manage the
 #### Class diagram
 ![Class diagram](screenshots/class-diagram.png)
 
-#### Spring security diagram
-![Security diagram](screenshots/security.png)
-
 ## Technologies Used
 
 ### Backend (book-network)
@@ -56,7 +53,7 @@ Book Social Network is a full-stack application that enables users to manage the
 
 ## Learning Objectives
 
-By following this project, students will learn:
+By following this project, I will learn:
 
 - Designing a class diagram from business requirements
 - Implementing a mono repo approach
