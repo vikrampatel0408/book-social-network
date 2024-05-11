@@ -39,8 +39,7 @@ Book Social Network is a full-stack application that enables users to manage the
 - JSR-303 and Spring Validation
 - OpenAPI and Swagger UI Documentation
 - Docker
-- GitHub Actions
-- Keycloak
+
 
 ### Frontend (book-network-ui)
 
