@@ -67,7 +67,7 @@ By following this project, I will learn:
 - Documenting APIs using OpenAPI and Swagger UI
 - Implementing business requirements and handling business exceptions
 - Dockerizing the infrastructure
-- CI/CD pipeline & deployment
+
 
 
 ## Getting Started
